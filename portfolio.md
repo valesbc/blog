@@ -6,4 +6,6 @@ layout: page
 
 ### Graphic | Web | Print
 
-[project1](valesbc.github.io/project1)
+
+
+[project1](http://valesbc.github.io/project1)
