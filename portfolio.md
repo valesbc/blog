@@ -6,6 +6,6 @@ layout: page
 
 ### Graphic | Web | Print
 
-[Project Wine Bottles](valesbc.github.io/project1.md)
+[project](valesbc.github.io/project1.md)
 
-[Project Typography](valesbc.github.io/project2.md)
+[project2](valesbc.github.io/project2.md)
