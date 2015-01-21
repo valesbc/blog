@@ -2,6 +2,6 @@
 layout: page
 ---
 
-#My Portafolio
+#My Portfolio
 
 ### Graphic | Web | Print
