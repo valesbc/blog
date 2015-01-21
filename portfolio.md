@@ -6,6 +6,8 @@ layout: page
 
 ### Graphic | Web | Print
 
-[project](valesbc.github.io/project1.md)
+[project](valesbc.github.io/project1)
 
-[project2](valesbc.github.io/project2.md)
+[project2](valesbc.github.io/project2)
+
+[project3](http://valesbc.github.io/project3)
