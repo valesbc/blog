@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 3 wine bottles
 ---
 
 ![Wine Bottles](https://farm9.staticflickr.com/8202/8285272446_3887c60dca.jpg)
