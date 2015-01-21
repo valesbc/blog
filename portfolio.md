@@ -6,7 +6,7 @@ layout: page
 
 ### Graphic | Web | Print
 
-[project](hhtp://valesbc.github.io/project1)
+[project](http://valesbc.github.io/project1)
 
 [project2](http://valesbc.github.io/project2)
 
