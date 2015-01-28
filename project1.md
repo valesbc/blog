@@ -2,11 +2,17 @@
 layout: page
 ---
 
-![Wine Bottles](https://farm9.staticflickr.com/8202/8285272446_3887c60dca.jpg)
+![After wine bottles](https://farm9.staticflickr.com/8562/16383791952_e584562ba5_z.jpg)
 
-Obsertional Drawing I need to draw three bottles (of wine) one farther away from the other and overlaping 2 of those bottles.
-The drawing has to be made with charcoal pencils and charchoal vine. This assigments helps to understand proportions with different objects as well as how to use line quality and value of contrast to create form and depth.
-The light source has to come from either the left or right side.
+**Obsertional Drawing**
 
-*Contributors:* me. myself and I. 
 
+Requierements: 
+* 3 bottles of wine (preferably).
+* 2 of the objects overlaping
+* Light source has to come from either the left side or right side.
+
+The drawing was made with charcoal pencils and charchoal vine. This drawing helps to understand proportions with different objects as well as how to use line quality and value of contrast to create form and depth. Because I was unable to purchase more wine bottles, the other two were Sangria and Champagne bottles. One was half drank, the wine bottle was transparent and because it was farther away I decided to go lighter with a charcoal pencil as opposed to the closer bottle, for which I had to use vine charcoal and sharper edges.
+Overall work time: 6 hours.
+
+![finished](https://farm8.staticflickr.com/7328/16197125530_542caa29b2.jpg)
