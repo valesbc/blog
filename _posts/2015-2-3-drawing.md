@@ -3,8 +3,8 @@ layout: post
 title: FOR THOSE STRUGGLING WITH OBSERVATIONAL DRAWING, HERE ARE A FEW TIPS TO HELP YOU WITH PROPORTIONS AND ADDING VALUE.
 ---
 
-*Turning a 3 dimensional figure or object into a 2 dimensional drawing is no piece of cake. It takes a lot of time and a lot of presicion.
-It’s easy to get incredibly frustrated if you don’t follow this very simple tips.*
+**Turning a 3 dimensional figure or object into a 2 dimensional drawing is no piece of cake. It takes a lot of time and a lot of presicion.
+It’s easy to get incredibly frustrated if you don’t follow this very simple tips.**
 
 Each one takes time but the overall result is worth it.
 Here I explain them in 2 parts Proportion and Contrast and Value.
