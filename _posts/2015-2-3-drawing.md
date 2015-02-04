@@ -3,6 +3,8 @@ layout: post
 title: FOR THOSE STRUGGLING WITH OBSERVATIONAL DRAWING, HERE ARE A FEW TIPS TO HELP YOU WITH PROPORTIONS AND ADDING VALUE.
 ---
 
+![boxes](https://farm8.staticflickr.com/7419/16415095876_6a80851b1f_c.jpg)
+
 *Turning a 3 dimensional figure or object into a 2 dimensional drawing is no piece of cake. It takes a lot of time and a lot of presicion.
 It’s easy to get incredibly frustrated if you don’t follow this very simple tips.*
 
@@ -21,4 +23,4 @@ After you are completely sure all the object sizes are good. Now you can start a
 Here is where shading comes in. My professor taught a very simple and kind of silly method to localize the light source (lightest area) and the darkest areas which is basically squinting your eyes. 
 That way is more clear where the contrast of your objects are. If you are drawing more than one and this happens to be closer to you then the other remember that the one closest to you is gonna have more detail and shaper lines as opposed to the one farther away from you which is going to have lighter line and much less details. Don’t be afraid to use charcoal and a lot of it for the very dark areas remember that helps give your object that 3D effect. For the parts with the most light use an eraser in case you want to emphasize it even more just add a dark shade in the background to make it pop.  I consider shading to be an art by itself. After you have that cover check to see if the contrast between your objects is correct. There is a technique that my professor taught me (which I’m still learning) in which you take your thumb and your index finger and make a little circle with them and look through them back and forward from your 3d objects to your drawing and see the difference in contrast. It’s not easy to see at first but the more you practice the easier it gets.
 
-![boxes](https://farm8.staticflickr.com/7419/16415095876_6a80851b1f_c.jpg)
+
