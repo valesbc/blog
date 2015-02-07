@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graphic Design with Web Concentration student at Miami International University of Art & Design
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+To be continued... 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[valesbc@stu.aii.edu](mailto:valesbc@stu.aii.edu)
