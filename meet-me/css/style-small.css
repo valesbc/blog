@@ -1,57 +1,77 @@
 /*
-	Highlights by HTML5 UP
+	Strata by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 /* Basic */
 
+	h1 {
+		font-size: 1.5em;
+	}
+
 	h2 {
+		font-size: 1.2em;
+	}
+
+	h3 {
+		font-size: 1em;
+	}
+
+/* Section/Article */
+
+	section.special, article.special {
+		text-align: center;
+	}
+
+	header.major h2 {
 		font-size: 1.35em;
 	}
 
-/* Main */
+/* List */
 
-	.main .container {
-		padding: 3em 1.5em 1em 1.5em;
+	ul.labeled-icons li {
+		padding-left: 2em;
 	}
 
-		.main .container .image.primary:first-child {
-			margin: -1.5em 0 2.5em 0;
+		ul.labeled-icons li h3 {
+			line-height: 1.75em;
 		}
-
-	.main .goto-next {
-		display: none;
-	}
 
 /* Header */
 
 	#header {
-		height: 80vh;
+		padding: 2.25em 1.5em;
 	}
 
-		#header:after {
-			height: 80vh;
-		}
-
-		#header header {
-			padding-bottom: 0;
-		}
-
-			#header header h1 {
-				font-size: 2em;
-			}
-
-			#header header p {
-				margin-top: 1em;
-			}
-
-		#header .container {
-			display: none;
+		#header h1 {
+			font-size: 1.35em;
 		}
 
 /* Footer */
 
-	#footer .container {
-		padding: 3em 1.5em 1em 1.5em;
+	#footer {
+		padding: 2.25em 1.5em;
 	}
+
+/* Main */
+
+	#main {
+		padding: 2.25em 1.5em 0.25em 1.5em;
+	}
+
+		#main > section {
+			margin: 2.25em 0 0 0;
+			padding: 2.25em 0 0 0;
+		}
+
+/* Poptrox */
+
+	.poptrox-popup {
+		border-radius: 0;
+	}
+
+		.poptrox-popup .nav-next:before,
+		.poptrox-popup .nav-previous:before {
+			margin-top: -1em;
+		}

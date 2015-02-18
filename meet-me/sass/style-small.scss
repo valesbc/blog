@@ -2,66 +2,93 @@
 @import 'mixins';
 
 /*
-	Highlights by HTML5 UP
+	Strata by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-$size-padding-tb: 3em;
-$size-padding-lr: 1.5em;
+$size-header-pad:		1.5em;
 
 /* Basic */
 
-	h2 {
-		font-size: 1.35em;
+	h1 {
+		font-size: 1.5em;
 	}
 
-/* Main */
+	h2 {
+		font-size: 1.2em;
+	}
 
-	.main {
-		.container {
-			@include padding($size-padding-tb, $size-padding-lr);
+	h3 {
+		font-size: 1em;
+	}
 
-			.image.primary:first-child {
-				margin: (($size-padding-tb - $size-padding-lr) * -1) 0 ($size-element-margin * 1.25) 0;
+/* Section/Article */
+
+	section, article {
+		&.special {
+			text-align: center;
+		}
+	}
+
+	header {
+		&.major {
+			h2 {
+				font-size: 1.35em;
 			}
 		}
+	}
 
-		.goto-next {
-			display: none;
+/* List */
+
+	ul {
+		&.labeled-icons {
+			li {
+				padding-left: 2em;
+
+				h3 {
+					line-height: 1.75em;
+				}
+			}
 		}
 	}
 
 /* Header */
 
 	#header {
-		height: 80vh;
-
-		&:after {
-			height: 80vh;
-		}
-
-		header {
-			padding-bottom: 0;
-
-			h1 {
-				font-size: 2em;
-			}
-
-			p {
-				margin-top: 1em;
-			}
-		}
-
-		.container {
-			display: none;
+		padding: ($size-header-pad * 1.5) $size-header-pad;
+		
+		h1 {
+			font-size: 1.35em;
 		}
 	}
 
 /* Footer */
 
 	#footer {
-		.container {
-			@include padding($size-padding-tb, $size-padding-lr);
+		padding: ($size-header-pad * 1.5) $size-header-pad;
+	}
+	
+/* Main */
+
+	#main {
+		padding: ($size-header-pad * 1.5) $size-header-pad (($size-header-pad * 1.5) - $size-element-margin) $size-header-pad;
+
+		> section {
+			margin: ($size-header-pad * 1.5) 0 0 0;
+			padding: ($size-header-pad * 1.5) 0 0 0;
+		}
+	}
+	
+/* Poptrox */
+
+	.poptrox-popup {
+		border-radius: 0;
+		
+		.nav-next,
+		.nav-previous {
+			&:before {
+				margin-top: -1em;
+			}
 		}
 	}
