@@ -3,10 +3,10 @@ layout: post
 title: Now You Can Have a super clean house without contaminating yourself or the enviroment
 ---
 
-Me and a group of classmate had the opportunity of using and test this really nice, eco friendly product called
+Me and a group of classmate had the opportunity of using and test this really nice, eco friendly cleaning product called
 Nana’s Good For All – All Purpose Cleaner from Casanatura.
 
-First things first, Casanatura is a very eco friendly company base in the USA. All of their products are non toxic and biodegradable.
+First things first, Casanatura is an eco friendly company base in the USA. All of their products are ammonia free and non toxic.
 With that being said lets talk about the benefits.
 
 Good things:
