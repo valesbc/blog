@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 
+title: Now You Can Have a super clean house without contaminating yourself or the enviroment
 ---
 
-Now You Can Have a super clean house without contaminating yourself or the enviroment
 
 Me and a group of classmate had the opportunity of using and testing this really nice, eco friendly cleaning product called
 Nana’s Good For All – All Purpose Cleaner from Casanatura.
