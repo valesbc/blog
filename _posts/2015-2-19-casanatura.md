@@ -10,13 +10,22 @@ First things first, Casanatura is an eco friendly company base in the USA. All o
 With that being said lets talk about the benefits.
 
 Good things:
+
+
 * Non toxic
+
 * Ammonia Free
+
 * 100% Biodegradable
+
 * No Harsh Chemicals
+
 * Clean Scent derived from plant and mineral based ingredients
+
 * No Animal - by- products; eliminating residue
+
 * Fragrance Free
+
 * Made in USA
 
 This product is for all you animal lovers, and for people who pretty much likes planet earth and would like to make it less
@@ -28,10 +37,13 @@ things.
 
 Just this bottle can clean almost any surface including:
 
--porcelain
--aluminum 
--stainless steel 
--upholstery 
+- porcelain
+
+- aluminum 
+
+- stainless steel 
+
+- upholstery 
 
 There's no need to carry or have a bunch of products for specifics products this pretty much covers them all. 
 No need of steping out of room you just clean because the smell is so strong you either start sneezing, get a headache or
