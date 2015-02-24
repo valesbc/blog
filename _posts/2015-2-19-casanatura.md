@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Now You Can Have a super clean house without contaminating yourself or the enviroment
+title: 
 ---
 
-Me and a group of classmate had the opportunity of using and test this really nice, eco friendly cleaning product called
+Now You Can Have a super clean house without contaminating yourself or the enviroment
+
+Me and a group of classmate had the opportunity of using and testing this really nice, eco friendly cleaning product called
 Nana’s Good For All – All Purpose Cleaner from Casanatura.
 
 First things first, Casanatura is an eco friendly company base in the USA. All of their products are ammonia free and non toxic.
@@ -28,8 +30,8 @@ Good things:
 
 * Made in USA
 
-This product is for all you animal lovers, and for people who pretty much likes planet earth and would like to make it less
-contaminated and gross. Also pretty much for anyone that likes to clean anything and everything like crazy only needs this one bottle to calm their OCD. As well as for people 
+This product is for all you animal lovers, and for people who likes planet earth and would like to make it less
+contaminated and gross and at the same time keeping everything clean and non toxic. As well as for people 
 with a sensitive nose or with allergies. 
 
 We tested this product on a shoe, a board and a MacBook. It clean them pretty nice, no smell at all, or damage to either one of those 
