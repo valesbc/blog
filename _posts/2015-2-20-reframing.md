@@ -3,32 +3,43 @@ layout: post
 title: Services
 ---
 
-Logo design
+#Logo design
 
-Basic Package
----
-Only logo design | Price
--------------------------
-small companies          | 800$  
-medium to large companies| 2000$
----
+**Starter package**        
+5 Logo design concepts 
+10 rounds of changes 
+vector image and 11 file formatas
+800-1000$
 
-1 on 1 consultation package
----
-Logo plus consultation| Price
-------------
-small companies| 1000$
-large companies| 2500$
-----
+**Premium**
+20 or more Logo design concepts
+revisions unlimited 
+Branding support
+vector images
+fonst and color codes 
+2000-3000$
 
-Premium
----
-Logo plus
-stationary design plus 
-Branding support       | Price
---------
-small companies| 5000$
-large companies| 8000$
----
+
+#Stationary Design
+
+**Starter package**
+Business cards
+Letterheads
+40$
+
+**Premium**
+Business cards design
+Letterhead design
+Envelope design
+Custom email signature design 
+Displays at the bottom of business emails featuring your logo, name and contact info
+Fax cover sheets design
+300$
+
+
+
+
+
+
 
 
