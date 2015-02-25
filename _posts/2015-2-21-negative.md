@@ -28,7 +28,13 @@ Sometimes we even see the negative space being use but we don’t identified, no
 Negative space by itself is a form of art not everyone can get such good design by using this same technique.
 
 <img src="http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2013/09/negative4.jpg" alt="golf" height="260" width="370">
+
+
 [spartan golf club](http://golfspartan.weebly.com/)
 
+
+
 <img src="http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2014/06/wineneg.jpg" alt="wine" height="500" width="348">
+
+
 [Tang Yau Hoong](http://tangyauhoong.com/)
