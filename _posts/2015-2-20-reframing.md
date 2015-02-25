@@ -12,6 +12,8 @@ vector image and 11 file formatas
 800-1000$
 
 **Premium**
+
+
 20 or more Logo design concepts
 revisions unlimited 
 Branding support
@@ -28,6 +30,8 @@ Letterheads
 40$
 
 **Premium**
+
+
 Business cards design
 Letterhead design
 Envelope design
