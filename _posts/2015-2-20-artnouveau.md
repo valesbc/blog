@@ -9,7 +9,7 @@ title: Pop Show à la Art Nouveau
 Turn of events. New professor. New project.
 This weeks projects and style of font is Art Nouveau.
 
-<img src="https://farm9.staticflickr.com/8588/16639366975_44056e9b9f_c.jpg <img" alt="poster" height="348" width="500">
+<img src="https://farm9.staticflickr.com/8588/16639366975_44056e9b9f_c.jpg <img" alt="poster" height="500" width="348">
 
 Art Nouveau is a style of art that was most popular during 1890–1910 is literally french for “new art”.
 The typefaces are very fluid, curve lines, and most poster well almost every poster of Art Nouveau features a female as a main subject. The style is also very gypsy like. 
