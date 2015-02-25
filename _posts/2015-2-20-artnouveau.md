@@ -4,7 +4,7 @@ title: Pop Show à la Art Nouveau
 ---
 
 
-*Undergoing, current project*
+**Undergoing, current project**
 
 Turn of events. New professor. New project.
 This weeks projects and style of font is Art Nouveau.
