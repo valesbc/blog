@@ -5,7 +5,9 @@ title: Services
 
 #Logo design
 
-**Starter package**        
+**Starter package**    
+
+
 5 Logo design concepts 
 10 rounds of changes 
 vector image and 11 file formatas
@@ -25,6 +27,8 @@ fonst and color codes
 #Stationary Design
 
 **Starter package**
+
+
 Business cards
 Letterheads
 40$
