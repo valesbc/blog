@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Linguistic Binds 
 ---
 
 As you keep browsing through the internet and scrowlling through my web site,
