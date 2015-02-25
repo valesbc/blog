@@ -3,7 +3,7 @@ layout: post
 title: Feminism vs Meninism
 ---
 
-![meninist](https://pbs.twimg.com/profile_images/555559187732627457/FR5ZYdq4.jpeg)
+
 
 
 
