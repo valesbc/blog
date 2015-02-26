@@ -17,3 +17,5 @@ layout: page
 [Garamond typeface](http://valesbc.github.io/project5)
 
 [Illustrated words](http://valesbc.github.io/project6)
+
+[Portrait of 3 Bags](http://valesbc.github.io/project7)
