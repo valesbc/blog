@@ -12,12 +12,12 @@ Requirements:
 Illustrate according to the words. 
 
 
-<img src="https://farm9.staticflickr.com/8662/16648352922_4d08618ed0_b.jpg" alt="Agriculture" height="1200" width="600">
+<img src="https://farm9.staticflickr.com/8662/16648352922_4d08618ed0_b.jpg" alt="Agriculture" height="600" width="1200">
 
 
 
-<img src="https://farm9.staticflickr.com/8578/16623433086_908a7bf4ce_b.jpg" alt="Industrial" height="1200" width="600">
+<img src="https://farm9.staticflickr.com/8578/16623433086_908a7bf4ce_b.jpg" alt="Industrial" height="600" width="1200">
 
 
 
-<img src="https://farm9.staticflickr.com/8610/16648307162_ef97705758_b.jpg" alt="Astronomal" height="1200" width="600">
+<img src="https://farm9.staticflickr.com/8610/16648307162_ef97705758_b.jpg" alt="Astronomal" height="600" width="1200">
