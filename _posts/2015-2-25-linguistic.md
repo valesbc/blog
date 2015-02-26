@@ -3,7 +3,7 @@ layout: post
 title: Linguistic Binds 
 ---
 
-
+#class exercise
  - Since you're reading my blog, type your email in my susbription box and click send!.
 
 
