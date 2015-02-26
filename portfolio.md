@@ -16,4 +16,4 @@ layout: page
 
 [Garamond typeface](http://valesbc.github.io/project5)
 
-[Illustrated words](http://valesbc.github.io/project6.md)
+[Illustrated words](http://valesbc.github.io/project6)
