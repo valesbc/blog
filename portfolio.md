@@ -6,7 +6,7 @@ layout: page
 
 ### Graphic | Web | 
 
-[wine bottle](http://valesbc.github.io/project1)
+[Wine Bottle](http://valesbc.github.io/project1)
 
 [Bodoni Roman typeface](http://valesbc.github.io/project2)
 
