@@ -6,12 +6,12 @@ layout: page
 
 ### Graphic | Web | 
 
-[project I](http://valesbc.github.io/project1)
+[wine bottle](http://valesbc.github.io/project1)
 
-[project II](http://valesbc.github.io/project2)
+[Bodoni Roman typeface](http://valesbc.github.io/project2)
 
-[project III](http://valesbc.github.io/project3)
+[Goudy Old Style Regular typeface](http://valesbc.github.io/project3)
 
-[project IV](http://valesbc.github.io/project4)
+[Bookman Medium typeface](http://valesbc.github.io/project4)
 
-[project V](http://valesbc.github.io/project5)
+[Garamond typeface](http://valesbc.github.io/project5)
