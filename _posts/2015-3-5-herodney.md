@@ -20,7 +20,8 @@ title: Buyer Persona Overview
 
 **IDENTIFIERS:**
 - Calm
-- Quiet
+- Talktive
+- Funny
 
 **GOALS:**
 - Making the client happy
