@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Newsjacking
+layout: post
+title: Newsjacking
 ---
 
 
