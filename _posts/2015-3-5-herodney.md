@@ -5,6 +5,8 @@ title: Buyer Persona Overview
 
 #Herodney
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/0/0e/Lakeyboy_Silhouette.PNG" height="250" widht="250">
+
 **BACKGROUND:**
 - Associates Degree in Art from Miami-Dade college. 
 - Bachelor’s Degree in Web Design
