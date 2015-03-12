@@ -42,7 +42,7 @@ title: Buyer Persona Overview
 - Not making the client happy with the work they do.
 
 **MARKETING MESSAGING:**
-- How should you describe your solution to your persona?
+- Feedback with the clients and the web designer
 
 **ELEVATOR PITCH:**
 - Looking for the customers, talking with them about the work they need. Giving that information to Herodney. Talking back and forward between them. And checking if the client was satisfy with the work.
