@@ -15,4 +15,10 @@ Research Keyword Ideas using the Google Keyword Planner, Google Suggest, and Ube
 - Adobe Programs
 - Sketching
 - Writing
-- 
+- Portfolio
+- Illustration
+- Web Design
+- Graphic Design portfolio
+- Graphic Design competitions
+
+and many more.
