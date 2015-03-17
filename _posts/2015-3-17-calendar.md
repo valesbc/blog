@@ -9,32 +9,14 @@ title: Editorial Calendar
     <tr>
       <td></td>
       <td>&nbsp;</td>
-      <td>**Topic/Title**</td>
-      <td>**Content/Details**</td>
-      <td>**Keywords**</td>
-      <td>**Target Persona(s)**</td>
-      <td>**Offer/CTA**</td>
+      <td>TOPIC/TITLE</td>
+      <td>CONTENT/DETAILS</td>
+      <td>KEYWORDS</td>
+      <td>TARGET PERSONA(S)</td>
+      <td>OFFER/CTA</td>
     </tr>
     <tr>
-      <td>**Monday**</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Author</td>
-      <td>Valeria Becerra</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>**Tuesday**</td>
+      <td>MONDAY</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -43,8 +25,8 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Author</td>
-      <td>valeria Becerra</td>
+      <td>Author: Valeria Becerra</td>
+      <td></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -52,16 +34,7 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>**Wednesday**</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
+      <td>TUESDAY</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -70,7 +43,16 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>**Thursday**</td>
+      <td>Author: Valeria Becerra</td>
+      <td></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>WEDNESDAY</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -88,7 +70,7 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>**Friday**</td>
+      <td>THURSDAY</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -106,7 +88,7 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>**Saturday**</td>
+      <td>FRIDAY*</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -124,7 +106,25 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>**Sunday**</td>
+      <td>SATURDAY</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>SUNDAY</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
