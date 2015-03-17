@@ -25,7 +25,9 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Author: Valeria Becerra
+      <td>Author: Valeria Becerra          
+      
+      
       Due date: 2015-3-18</td>
       <td></td>
       <td>&nbsp;</td>
