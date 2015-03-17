@@ -4,7 +4,7 @@ title: Editorial Calendar
 ---
 
 
-<table width="200" border="1">
+<table width="300" border="1">
   <tbody>
     <tr>
       <td></td>
