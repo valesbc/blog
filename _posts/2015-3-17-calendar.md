@@ -7,8 +7,8 @@ title: Editorial Calendar
 <table width="500" border="1">
   <tbody>
     <tr>
-      <td>AUTHOR</td>
-      <td>DUE DATE</td>
+      <td></td>
+      <td>AUTHOR & DUE DATE</td>
       <td>TOPIC/TITLE</td>
       <td>CONTENT/DETAILS</td>
       <td>KEYWORDS</td>
@@ -17,8 +17,8 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>MONDAY</td>
-      <td>Valeria Becerra</td>
-      <td>2015-3-18</td>
+      <td></td>
+      <td>Valeria Becerra, 2015-3-18</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
