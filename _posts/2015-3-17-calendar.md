@@ -4,7 +4,7 @@ title: Editorial Calendar
 ---
 
 
-<table width="300" border="1">
+<table width="500" border="1">
   <tbody>
     <tr>
       <td></td>
@@ -25,7 +25,8 @@ title: Editorial Calendar
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Author: Valeria Becerra</td>
+      <td>Author: Valeria Becerra
+      Due date: 2015-3-18</td>
       <td></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
