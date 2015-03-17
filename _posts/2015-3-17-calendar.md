@@ -8,12 +8,12 @@ title: Editorial Calendar
   <tbody>
     <tr>
       <td></td>
+      <td>&nbsp;</td>
       <td>Topic/Title</td>
       <td>Content/Details</td>
       <td>Keywords</td>
       <td>Target Persona(s)</td>
       <td>Offer/CTA</td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>Monday</td>
