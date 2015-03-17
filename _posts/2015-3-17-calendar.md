@@ -17,7 +17,7 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>MONDAY</td>
-      <td>Valeria Becerra, 18/3/2015</td>
+      <td>Valeria Becerra  3/18/2015</td>
       <td></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
