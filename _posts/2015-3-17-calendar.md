@@ -18,7 +18,7 @@ title: Editorial Calendar
     <tr>
       <td>MONDAY</td>
       <td>Valeria Becerra  3/18/2015</td>
-      <td></td>
+      <td>Buyer Persona Fashion Merchandise</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -35,15 +35,15 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>TUESDAY</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
+      <td>Can Spoken word poetry make a difference?</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Author: Valeria Becerra</td>
+      <td></td>
       <td></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -53,8 +53,8 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>WEDNESDAY</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
+      <td>Ready, set, Logo!!</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -71,8 +71,8 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>THURSDAY</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
+      <td>Self promotion in social media</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -89,8 +89,8 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>FRIDAY*</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
+      <td>The Quora Experience</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -107,7 +107,7 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>SATURDAY</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -125,8 +125,8 @@ title: Editorial Calendar
     </tr>
     <tr>
       <td>SUNDAY</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Valeria Becerra  3/18/2015</td>
+      <td>Photoshop Tutorial</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
