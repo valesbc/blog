@@ -8,7 +8,7 @@ title: Editorial Calendar
   <tbody>
     <tr>
       <td></td>
-      <td>AUTHOR & DUE DATE</td>
+      <td>AUTHOR &   DUE DATE</td>
       <td>TOPIC/TITLE</td>
       <td>CONTENT/DETAILS</td>
       <td>KEYWORDS</td>
