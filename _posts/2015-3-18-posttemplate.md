@@ -12,34 +12,34 @@ title: Get Inspired. 10 quotes & ted talks to believe in Design.
 Often we found quotes about love, friendship, despair, etc. on social media like Facebook, Twitter, Tumblr, you name it!. But for more specific things such as a career in specific. Quotes help us understand things better and from another perspective, a lot of quotes are not true or they end up with the wrong sources. Here I’m going to show 20 quotes about design, each with their respective source (name, major, website or social media site).
 
 1. >“There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”
-- [Milton Grace](http://www.miltonglaser.com/the-work/)
+   [Milton Grace](http://www.miltonglaser.com/the-work/)
 
 2. >“The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”
-- [Paul Rand](http://www.paul-rand.com/foundation/biography/#.VQnQWUKlnBI)
+   [Paul Rand](http://www.paul-rand.com/foundation/biography/#.VQnQWUKlnBI)
 
 3. > “Graphic design will save the world right after rock and roll does.”
-- [David Carson](http://www.davidcarsondesign.com/t/work/branding/)
+   [David Carson](http://www.davidcarsondesign.com/t/work/branding/)
 
 4. >“I’ve never had a problem with a dumb client. There is no such thing as a bad client. Part of our job is to do good work and get the client to accept it.”
--[Bob Gill](http://www.bobgilletc.com/posters.html)
+   [Bob Gill](http://www.bobgilletc.com/posters.html)
 
 5. >“Never fall in love with an idea. They’re whores. If the one you’re with isn’t doing the job, there’s always, always, always another.”
--[Chip Kidd](http://www.chipkidd.com/gallery.html)
+   [Chip Kidd](http://www.chipkidd.com/gallery.html)
 
 6. >“Digital design is like painting, except the paint never dries.”
-- [Neville Brody](http://brody-associates.com)
+   [Neville Brody](http://brody-associates.com)
 
 7. >“Socrates said, “Know thyself.” I say, “Know thy users.” And guess what? They don’t think like you do.”
-- [Josua Brewer](https://thegreatdiscontent.com/interview/josh-brewer)
+   [Josua Brewer](https://thegreatdiscontent.com/interview/josh-brewer)
 
 8. >“I want to make beautiful things, even if nobody cares, as opposed to ugly things. That’s my intent.”
-- [Saul Bass](http://www.saulbassposterarchive.com)
+   [Saul Bass](http://www.saulbassposterarchive.com)
 
 9. >“Good design is all about making other designers feel like idiots because that idea wasn’t theirs.”
--[Fran Chimero](http://frankchimero.com), and [Studio](http://ofanother.com)
+   [Fran Chimero](http://frankchimero.com), and [Studio](http://ofanother.com)
 
 10. >“Content precedes design. Design in the absence of content is not design, it’s decoration.”
--[ Jeffrey Zeldman](http://www.zeldman.com)
+   [Jeffrey Zeldman](http://www.zeldman.com)
 
 In case you still don't feel inspired with this quotes, here are some amazing TED talk playlist about design and art: 
 
