@@ -50,6 +50,8 @@ In case you still don't feel inspired with this quotes, here are some amazing TE
 
 
 ![artist](https://img-ssl.tedcdn.com/r/assets.tedcdn.com/images/playlists/the_artist_is_in.jpg?ll=1&quality=89&w=500)
+
+
 [The Artist is in](http://www.ted.com/playlists/3/the_artist_is_in)
 
 
