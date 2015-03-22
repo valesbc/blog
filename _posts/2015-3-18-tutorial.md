@@ -12,7 +12,7 @@ Here is a step by step tutorial on how to illustrate in Photoshop:
 
 Step 1. Before opening Photoshop or your computer. You should draw you illustration in black ink by hand and scan it. Sakura pencils are great for this. Or any typo of black ink pencil. Here is how it should look:
 
-<img src="http://fc04.deviantart.net/fs70/i/2012/110/6/5/paul_abrams___fantasy_drawing_ink_by_me_by_jasonwells10-d4wyx5m.jpg" height="557" width="700"
+<img src="http://fc04.deviantart.net/fs70/i/2012/110/6/5/paul_abrams___fantasy_drawing_ink_by_me_by_jasonwells10-d4wyx5m.jpg" height="557" widht="700">
 
 (this image was downolad from the web)
 
