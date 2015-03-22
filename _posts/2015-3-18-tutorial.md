@@ -22,7 +22,7 @@ Step 2. Scan your drawing. Open it in Photoshop
 
 Step 3. You have to covert your image into a layer: You can do this by doble clicking it and hitting ok.
 
-<img src="https://farm8.staticflickr.com/7647/16267528654_26e9a406c9.jpg" height="500" widht="280">
+<img src="https://farm8.staticflickr.com/7647/16267528654_26e9a406c9.jpg" height="500" widht="320">
 
 Step 4. Take out the white background: The most common way is by using the magic wand tool. But this becomes unpractical because you would have to select everysingle white space. An easy way to do this is to go to Select > Color Range > Select the white > put Fuzziness in 200 > hit Ok > hit delete.
 
