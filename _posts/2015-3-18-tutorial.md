@@ -16,7 +16,7 @@ Step 1. Before opening Photoshop or your computer. You should draw you illustrat
 
 (this image was downolad from the web)
 
-The lines should be a solid black so Photoshop can identified as one color.
+The lines should be a solid black so Photoshop can identified it as one color.
 
 Step 2. Scan your drawing. Open it in Photoshop
 
