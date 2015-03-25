@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Graphic Design with Web Concentration student at Miami International University of Art & Design
 
-### More Information
+### Who am I? 
 
-To be continued... 
+- Valeria Becerra
+- Graphic and Web Designer student at Miami International University of Art & Design. Miami, Fl
 
-### Contact me
+###What I can do:
+
+- Logo Design
+- Branding
+- Charcoal Drawing
+- Website design
+- App design
+- Mardown & Html
+
+###Programs:
+
+- Photoshop
+- Illustrator
+- Dreamweaver
+- Indesign
+
+### For jobs or questions:
 
 [valesbc@stu.aii.edu](mailto:valesbc@stu.aii.edu)
+
+###Work & social media
+
+[twitter](https://twitter.com/ValeriaSBC)
+[quora](http://www.quora.com)
+[instagram](http://www.quora.com)
+[tumblr](http://valshenanigans.tumblr.com)
