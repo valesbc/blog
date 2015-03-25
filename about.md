@@ -28,11 +28,11 @@ permalink: /about/
 
 ### For jobs or questions:
 
-[valesbc@stu.aii.edu](mailto:valesbc@stu.aii.edu)
+- [valesbc@stu.aii.edu](mailto:valesbc@stu.aii.edu)
 
 ###Work & social media
 
-[twitter](https://twitter.com/ValeriaSBC)
-[quora](http://www.quora.com)
-[instagram](http://www.quora.com)
-[tumblr](http://valshenanigans.tumblr.com)
+- [twitter](https://twitter.com/ValeriaSBC)
+- [quora](http://www.quora.com)
+- [instagram](http://www.quora.com)
+- [tumblr](http://valshenanigans.tumblr.com)
