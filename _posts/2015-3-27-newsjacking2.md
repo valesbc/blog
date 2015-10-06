@@ -5,7 +5,7 @@ title: Newsjacking for final
 
 #Beyonces Unretouched photos leaked.
 
-![beyonce](http://i.dailymail.co.uk/i/pix/2015/02/18/25CE13E300000578-0-image-m-45_1424286916443.jpg)
+
 
 They are perfect to practice your photoshop skills.
 
