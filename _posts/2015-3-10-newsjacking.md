@@ -6,9 +6,9 @@ title: Newsjacking
 Paolo Ballesteros can transform himself into Kim Kardashian and Michelle Obama than you can lear to draw.
 
 
-<img src="https://farm8.staticflickr.com/7589/16876670132_cb94400ce8.jpg" height="378" widht="500">
 
-<img src="https://farm8.staticflickr.com/7637/16851963196_83e2eb425a.jpg" height="378" widht="500">
+
+
 
 This host from Eat Bulagas! a TV series in the Philippines, has gained international fame because of his make up skills to turn himself into any celebrity. 
 Using wigs wigs, contact lenses, and extremely talented contouring, Paolo has been transforming into pop stars, famous actresses, and socialites for over a year and sharing the pictures on his [Instagram account](https://instagram.com/pochoy_29/).
